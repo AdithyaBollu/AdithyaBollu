@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a senior at the University of California, Irvine majoring in Computer Science with a minor in Bioinformatics.<br><br>- 🔭 I am currently working as a Software Engineer for a Netlist. <br>- 📚 I am currently learning about RAG, Azure, and TTS.<br>- ⚡ In my free time I enjoy watching and playing basketball and going to the beach.</p>
+<p align="left">I am a senior at the University of California, Irvine majoring in Computer Science with a specialization in Intelligent Systems<br><br>- 🔭 I am currently working as a Software Engineer Intern at Medtronic. <br>- 📚 I am currently learning to implement Agentic Workflows.<br>- ⚡ In my free time I enjoy watching and playing basketball and going to the beach.</p>
 
 ###
 
